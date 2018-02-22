@@ -8,6 +8,8 @@
       <module name="customer-service_test" target="1.8" />
       <module name="discovery-service_main" target="1.8" />
       <module name="discovery-service_test" target="1.8" />
+      <module name="gateway-service_main" target="1.8" />
+      <module name="gateway-service_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/discovery-service/discovery-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-service_main.iml" group="discovery-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-service_test.iml" group="discovery-service" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service_main.iml" group="gateway-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service_test.iml" group="gateway-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices-demo.iml" />
     </modules>
   </component>
