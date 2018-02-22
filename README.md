@@ -1,5 +1,7 @@
 # Microservices with Spring
 
+![Architecture Diagram](https://github.com/HankLi0130/MicroservicesDemo/blob/master/diagram/architecture.png?raw=true)
+
 **account-service:** 基本的REST服務
 
 **customer-service:** 基本的REST服務，搭配Feign與其他REST溝通
