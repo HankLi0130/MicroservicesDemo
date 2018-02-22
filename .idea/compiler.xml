@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="account-service_main" target="1.8" />
       <module name="account-service_test" target="1.8" />
+      <module name="customer-service_main" target="1.8" />
+      <module name="customer-service_test" target="1.8" />
       <module name="discovery-service_main" target="1.8" />
       <module name="discovery-service_test" target="1.8" />
     </bytecodeTargetLevel>
