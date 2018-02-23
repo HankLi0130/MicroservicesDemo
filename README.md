@@ -10,6 +10,7 @@
 
 **gateway-service:** 路由，使用Zuul
 
+<br />
 ## 參考來源
 
 [Part 1: Creating microservice using Spring Cloud, Eureka and Zuul](https://piotrminkowski.wordpress.com/2017/02/05/part-1-creating-microservice-using-spring-cloud-eureka-and-zuul/)
@@ -18,6 +19,7 @@
 
 [GitHub](https://github.com/piomin/sample-spring-microservices)
 
+<br />
 ## 基礎知識
 
 [微服務基礎建設](http://columns.chicken-house.net/2017/12/31/microservice9-servicediscovery/)
@@ -31,6 +33,7 @@
 2. **Query**：查詢已註冊服務資訊的機制
 3. **Healthy Check**：確認服務健康狀態的機制
 
+<br />
 ## Service Registration Pattern
 
 **參考來源**： [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
